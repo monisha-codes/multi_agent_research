@@ -1,0 +1,10 @@
+django
+djangorestframework
+psycopg2-binary
+langchain
+langgraph
+ollama
+streamlit
+requests
+redis
+psycopg2-binary
