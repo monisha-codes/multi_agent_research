@@ -51,7 +51,7 @@ python manage.py runserver
 
 ### 5. Start Ollama
 
-ollama run qwen3:8b
+ollama run llama3
 
 ### 6. Run Streamlit UI
 
